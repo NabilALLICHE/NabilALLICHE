@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NabilALLICHE  
+- 👋 Hi, I’m Nabil 
 - 👀 I’m interested in **Embedded Systems, Cybersecurity, Software Development, Electric Motor Manufacturing, Robotics, Automation, Tests and simulation**.  
 - 🌱 I’m currently learning **AI, Cybersecurity, Software Development**.  
 - 💞️ I’m open to collaborating on **projects related to Embedded Systems, Cybersecurity, AI, Robotics, and Automation**.  
