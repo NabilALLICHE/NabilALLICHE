@@ -6,7 +6,6 @@
    - Email: **nabil.alliche22@gmail.com**  
    - Phone: **07 51 11 18 27**  
    - LinkedIn: [Nabil Alliche](https://www.linkedin.com/in/nabil-alliche-462b58264/)  
-- Pronouns: **he/him**  
 - Fun fact: **I’ve built a fire-detecting drone and I’m currently working on AI for object detection. I’ve also worked on many projects like an automatic watering system, a line-following robot, and more.**  
 
 <!---
